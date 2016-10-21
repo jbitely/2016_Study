@@ -1,0 +1,1 @@
+Build your own linked list using the language of your choice.  You should have a sample client or main function that adds and removes several items and then prints out all the remaining items in the list.  For bonus, repeat the above in a second language.
